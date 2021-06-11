@@ -12,10 +12,11 @@ public class no_10950 {
 		Scanner sc = new Scanner(System.in);
 		
 		t = sc.nextInt();
-		a = sc.nextInt();
-		b = sc.nextInt();
+
 		
 		for (int i = 0;  i < t; i++) {
+			a = sc.nextInt();
+			b = sc.nextInt();
 			System.out.println(a + b);
 			
 		}
